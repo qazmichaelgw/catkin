@@ -1,0 +1,12 @@
+/home/gaowei/Dropbox/phd/ROS/catkin/install/_setup_util.py
+/home/gaowei/Dropbox/phd/ROS/catkin/install/env.sh
+/home/gaowei/Dropbox/phd/ROS/catkin/install/setup.bash
+/home/gaowei/Dropbox/phd/ROS/catkin/install/setup.sh
+/home/gaowei/Dropbox/phd/ROS/catkin/install/setup.zsh
+/home/gaowei/Dropbox/phd/ROS/catkin/install/.rosinstall
+/home/gaowei/Dropbox/phd/ROS/catkin/install/etc/catkin/profile.d/05.catkin_make.bash
+/home/gaowei/Dropbox/phd/ROS/catkin/install/etc/catkin/profile.d/05.catkin_make_isolated.bash
+/home/gaowei/Dropbox/phd/ROS/catkin/install/lib/pkgconfig/imagegrab.pc
+/home/gaowei/Dropbox/phd/ROS/catkin/install/share/imagegrab/cmake/imagegrabConfig.cmake
+/home/gaowei/Dropbox/phd/ROS/catkin/install/share/imagegrab/cmake/imagegrabConfig-version.cmake
+/home/gaowei/Dropbox/phd/ROS/catkin/install/share/imagegrab/package.xml

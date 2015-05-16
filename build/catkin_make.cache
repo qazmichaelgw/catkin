@@ -1,0 +1,2 @@
+imagegrab
+-DCATKIN_DEVEL_PREFIX=/home/gaowei/Dropbox/phd/ROS/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/gaowei/Dropbox/phd/ROS/catkin/install -G Unix Makefiles
