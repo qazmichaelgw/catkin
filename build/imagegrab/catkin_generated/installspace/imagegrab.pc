@@ -1,8 +1,0 @@
-prefix=/home/gaowei/Dropbox/phd/ROS/catkin/install
-
-Name: imagegrab
-Description: Description of imagegrab
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/gaowei/Dropbox/phd/ROS/catkin/install/lib 
-Requires: 

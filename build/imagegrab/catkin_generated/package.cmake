@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "imagegrab")
-set(imagegrab_MAINTAINER "gaowei <gaowei@todo.todo>")
-set(imagegrab_DEPRECATED "")
-set(imagegrab_VERSION "0.0.0")
-set(imagegrab_BUILD_DEPENDS "image_transport" "roscpp" "rospy" "std_msgs")
-set(imagegrab_RUN_DEPENDS "image_transport" "roscpp" "rospy" "std_msgs")
-set(imagegrab_BUILDTOOL_DEPENDS "catkin")
